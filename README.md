@@ -1,2 +1,3 @@
 # testing
-test
+
+Files updated every 30 seconds 
