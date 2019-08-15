@@ -1,5 +1,5 @@
 PRESSURE CHARTS - ?? second delay
-Hex Pressure: +/- 2000 btc @ step size 100btc || LAST UPDATED: Thu Aug 15 18:42:46 UTC 2019
+Hex Pressure: +/- 2000 btc @ step size 100btc || LAST UPDATED: Thu Aug 15 18:43:30 UTC 2019
 	
 	
   2000 ++-------+-------+--------+-------+--------+-------+--------+-----*++	==== STATS =====
